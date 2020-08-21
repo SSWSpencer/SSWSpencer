@@ -1,4 +1,4 @@
-![Welcome Gif](githubgif.gif)
+![Welcome Gif](https://github.com/SSWSpencer/SSWSpencer/blob/master/githubgif.gif?raw=true)
 
 ### Hi there 👋
 
