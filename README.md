@@ -1,4 +1,4 @@
-![](githubgitf.gif)
+![](githubgif.gif)
 
 ### Hi there 👋
 
