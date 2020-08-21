@@ -1,3 +1,5 @@
+![](githubgitf.gif)
+
 ### Hi there 👋
 
 Welcome to my Profile! I am Steven Spencer, a Team Lead and Student at Lambda School!
