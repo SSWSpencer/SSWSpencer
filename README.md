@@ -1,11 +1,1 @@
-![Welcome Gif](https://github.com/SSWSpencer/SSWSpencer/blob/master/githubgif.gif?raw=true)
-
-### Hi there 👋
-
-Welcome to my Profile! I am Steven Spencer, a former Team Lead and an endorsed student from Lambda School.
-
-I'm from Worcester Massachusetts and spend most of my time either programming, working on my cars, or listening to music.
-
-Most of my programming work is in React, Python, and NodeJS, however I also have knowledge in HTML, JavaScript, Java, and CSS, and I also know how to use technologies such as LESS, Styled Components, Reactstrap, Bootstrap, Redux, and Context API, and AngularJS.
-
-You can find my portfolio website at https://www.stevenswspencer.com, or you can get in touch with me directly at steve35spencer@gmail.com
+I'm Steven Spencer, a full stack web developer with almost four years of experience in designing and implementing responsive web applications. I'm proficient in a wide range of programming languages, frameworks, and technologies, including HTML, CSS, JavaScript, React, Node, and SQL. I collaborate closely with clients to understand project requirements, deliver customized solutions, and exceed client expectations. My passion is creating efficient and user-friendly web experiences.
