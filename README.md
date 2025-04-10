@@ -1,1 +1,4 @@
-I'm Steven Spencer, a full stack web developer with almost four years of experience in designing and implementing responsive web applications. I'm proficient in a wide range of programming languages, frameworks, and technologies, including HTML, CSS, JavaScript, React, Node, and SQL. I collaborate closely with clients to understand project requirements, deliver customized solutions, and exceed client expectations. My passion is creating efficient and user-friendly web experiences.
+Hey, I'm Steven.
+I make stuff to make my life easier because nobody wants to pay me to make stuff to make their lives easier.
+
+I sed to be involved in a 'bootcamp' because I thought I was too good for a degree and wanted to take the 'easy' route, so pay little attention to like 99% of the web dev stuff with weird names.
